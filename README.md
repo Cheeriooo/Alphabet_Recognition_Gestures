@@ -12,4 +12,7 @@ A set of sample images is shown below.
 ![e](https://user-images.githubusercontent.com/48173479/104183572-288a8300-5438-11eb-8fda-2bad7c713157.jpg)
 
 
+![a](https://user-images.githubusercontent.com/48173479/104183726-69829780-5438-11eb-94fd-41143b3f5fb0.jpg)
+
+
 Each of the letters is stored as a numbered array as shown below.
