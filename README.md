@@ -14,5 +14,20 @@ A set of sample images is shown below.
 
 ![a](https://user-images.githubusercontent.com/48173479/104183726-69829780-5438-11eb-94fd-41143b3f5fb0.jpg)
 
+A Multilayer Perceptron (MLP) model as well as a Convolutional Neural Network (CNN) model using Keras library. The predictions of both the models are shown on the screen in real time.  
 
-Each of the letters is stored as a numbered array as shown below.
+The Test accuracies were as follows:  
+
+->MLP Test Accuracy: 91.7%  
+->CNN Test Accuracy: 93.1%  
+
+#Execution    
+Execute mlp_model_builder.py for bulding the Model architecture using Multilayer Perceptron Network
+
+Execute cnn_model_builder.py for building the Model architecture using Convolutional Neural Network.
+
+Execute alpha_recognition.py to run the Alphabet detection code.  
+
+Use a Blue bottle cap to Draw the letters on the Screen   
+  
+
