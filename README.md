@@ -9,5 +9,7 @@ The "Extended Hello World" of object recognition for machine learning and deep l
 
 A set of sample images is shown below.
 
+![e](https://user-images.githubusercontent.com/48173479/104183572-288a8300-5438-11eb-8fda-2bad7c713157.jpg)
+
 
 Each of the letters is stored as a numbered array as shown below.
